@@ -2,9 +2,11 @@
 I extracted the limited number of publicly available martyr figures using web scraping, preprocessed and visualized this data, examined the correlation between various development indicators and the number of martyrs, and used the results to create a news story. I have shared the sources I used to create the news story below:
 
 Regarding the Excel files I shared:
--SIPRI: SIPRI's distribution of military expenditures for various countries in Turkish Lira by year.
--ehit_verileri_tam_liste: Raw Excel file containing information on our martyrs obtained via web scraping from the website https://www.terorsehitleri.com/. 
--world_bank: World Bank's distribution of GDP amounts for countries in US dollars by year.
+SIPRI: SIPRI's distribution of military expenditures for various countries in Turkish Lira by year.
+
+sehit_verileri_tam_liste: Raw Excel file containing information on our martyrs obtained via web scraping from the website https://www.terorsehitleri.com/. 
+
+world_bank: World Bank's distribution of GDP amounts for countries in US dollars by year.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sınırlı sayıda açıklanan şehit sayılarını web kazıma ile çekerek bu verileri ön işleyip anlamlı hale getirip görselleştirdim ve çeşitli gelişmişlik göstergeleri ile şehit sayıları arasındaki korelasyonu inceledim ve sonuçları kullanarak haber hikayesi oluşturdum. Haberi oluştururken kullandığım kaynakları aşağıda paylaştım:
@@ -22,6 +24,8 @@ https://web.archive.org/web/20191029222122/http://www.milliyet.com.tr/gundem/26-
 https://www.sbb.gov.tr/temel-ekonomik-gostergeler/
 
 Paylaştığım excel dosyaları ile ilgili olarak:
--SIPRI: SIPRI'nin çeşitli ülkelere dair askeri harcamalarının Türk lirası cinsinden yıllara göre dağılımı
--sehit_verileri_tam_liste:https://www.terorsehitleri.com/ internet sitesinden şehitlerimizin web kazıma ile elde edilen bilgilerine ait ham excel dosyası.
--world_bank: Dünya bankasının ülkelere dair GSYH miktarlarının dolar cinsinden yıllara göre dağılımı
+SIPRI: SIPRI'nin çeşitli ülkelere dair askeri harcamalarının Türk lirası cinsinden yıllara göre dağılımı
+
+sehit_verileri_tam_liste:https://www.terorsehitleri.com/ internet sitesinden şehitlerimizin web kazıma ile elde edilen bilgilerine ait ham excel dosyası.
+
+world_bank: Dünya bankasının ülkelere dair GSYH miktarlarının dolar cinsinden yıllara göre dağılımı
